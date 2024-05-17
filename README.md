@@ -1,2 +1,3 @@
 # kothoor-99
-Thios is my first commit
+This is my first commit
+hi
